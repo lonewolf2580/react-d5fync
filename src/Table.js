@@ -12,8 +12,8 @@ class Table extends Component {
         </thead>
         <tbody>
           <tr>
-            <td>Charlie</td>
-            <td>Janitor</td>
+            <td>Chiazam</td>
+            <td>Foo</td>
           </tr>
           <tr>
             <td>Mac</td>
